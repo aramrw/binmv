@@ -1,0 +1,9 @@
+[package]
+name = "binmv"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+color-eyre = "0.6.3"
+color-print = "0.3.7"
+thiserror = "2.0.12"
